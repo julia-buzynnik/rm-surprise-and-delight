@@ -180,7 +180,7 @@ textarea {
 .hero__form {
   background-color: var(--rm-white);
   padding: 20px;
-  width: 386px;
+  max-width: 386px;
   margin: 0 auto;
 }
 
